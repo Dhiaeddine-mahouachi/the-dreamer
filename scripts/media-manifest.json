@@ -1,0 +1,102 @@
+[
+  {
+    "path": "assets/documentaries-hero.mp4",
+    "parts": [
+      ".media-parts/assets/documentaries-hero.mp4.part-000",
+      ".media-parts/assets/documentaries-hero.mp4.part-001",
+      ".media-parts/assets/documentaries-hero.mp4.part-002"
+    ],
+    "sha256": "4b9c709ce56a24d6376aad662faeb3776460619bc64eecf45a2ea62b2c532abc"
+  },
+  {
+    "path": "assets/hero-full/part-02.mp4",
+    "parts": [
+      ".media-parts/assets/hero-full/part-02.mp4.part-000",
+      ".media-parts/assets/hero-full/part-02.mp4.part-001"
+    ],
+    "sha256": "8bb6a41f8201208e88a8383611bc5b9d7cfee8a6d30a968bf3fa1a1905e733c9"
+  },
+  {
+    "path": "assets/hero-full/part-04.mp4",
+    "parts": [
+      ".media-parts/assets/hero-full/part-04.mp4.part-000",
+      ".media-parts/assets/hero-full/part-04.mp4.part-001"
+    ],
+    "sha256": "bd3ba8774c6e2246c6ff41a7525ff6170f03a78697e7a098642b74e91aa044c1"
+  },
+  {
+    "path": "assets/hero-full/part-05.mp4",
+    "parts": [
+      ".media-parts/assets/hero-full/part-05.mp4.part-000",
+      ".media-parts/assets/hero-full/part-05.mp4.part-001"
+    ],
+    "sha256": "b50b75c7d2c10fd13640bf45d0a0dca12560108ab025535a3e74a1ed949e6331"
+  },
+  {
+    "path": "assets/hero-full/part-06.mp4",
+    "parts": [
+      ".media-parts/assets/hero-full/part-06.mp4.part-000",
+      ".media-parts/assets/hero-full/part-06.mp4.part-001"
+    ],
+    "sha256": "2640b6b2a21c3b74709aab7c34aad6eea31cf2ee83f9b10a8a9ae7fb4d28f611"
+  },
+  {
+    "path": "assets/hero-new/landing-bg-hevc.mp4",
+    "parts": [
+      ".media-parts/assets/hero-new/landing-bg-hevc.mp4.part-000",
+      ".media-parts/assets/hero-new/landing-bg-hevc.mp4.part-001",
+      ".media-parts/assets/hero-new/landing-bg-hevc.mp4.part-002"
+    ],
+    "sha256": "62fbdaa4d570bd3287f2b04aeb89a9e40800e093a2b924a6d4407ce304710a34"
+  },
+  {
+    "path": "assets/hero-new/landing-bg-mobile.mp4",
+    "parts": [
+      ".media-parts/assets/hero-new/landing-bg-mobile.mp4.part-000",
+      ".media-parts/assets/hero-new/landing-bg-mobile.mp4.part-001",
+      ".media-parts/assets/hero-new/landing-bg-mobile.mp4.part-002"
+    ],
+    "sha256": "7de1a675e97bfcd412aa551920314ddd37e9e42bc7b99143d643bd1ad382ba46"
+  },
+  {
+    "path": "assets/hero-new/landing-bg.mp4",
+    "parts": [
+      ".media-parts/assets/hero-new/landing-bg.mp4.part-000",
+      ".media-parts/assets/hero-new/landing-bg.mp4.part-001",
+      ".media-parts/assets/hero-new/landing-bg.mp4.part-002"
+    ],
+    "sha256": "ea19004f773ca760c7f41bc534f20570f5830efbb79bd7f657a2f4843739dfe1"
+  },
+  {
+    "path": "assets/impact/community-coast.mp4",
+    "parts": [
+      ".media-parts/assets/impact/community-coast.mp4.part-000",
+      ".media-parts/assets/impact/community-coast.mp4.part-001"
+    ],
+    "sha256": "47ead41ec6c4385a138aea55baebd339eaf022a2606f2e8c3e8054fc47b1c96d"
+  },
+  {
+    "path": "assets/impact/impact-opening.mp4",
+    "parts": [
+      ".media-parts/assets/impact/impact-opening.mp4.part-000",
+      ".media-parts/assets/impact/impact-opening.mp4.part-001"
+    ],
+    "sha256": "fb499a69cf568f31da10a863b6029a705e5dd6005fdfa4751156efd6a0887628"
+  },
+  {
+    "path": "assets/impact/nature-value.mp4",
+    "parts": [
+      ".media-parts/assets/impact/nature-value.mp4.part-000",
+      ".media-parts/assets/impact/nature-value.mp4.part-001"
+    ],
+    "sha256": "dae8e2cdf62d736e878659b5a16467169f989ec278fd2ea64f22265df081826e"
+  },
+  {
+    "path": "assets/speaking/rabii-speaking-background.mp4",
+    "parts": [
+      ".media-parts/assets/speaking/rabii-speaking-background.mp4.part-000",
+      ".media-parts/assets/speaking/rabii-speaking-background.mp4.part-001"
+    ],
+    "sha256": "fc08a9fb36b6248c0dc0720728e038af5bf673697f845d160789f340fc1e5765"
+  }
+]

@@ -1,10 +1,10 @@
-THE DREAMER — FULL WEBSITE, OFFLINE-READY
+THE DREAMER — LATEST CINEMATIC WEBSITE
 
-Extract the entire ZIP, then open index.html in your browser.
-The design, navigation, local images, and videos work without a server.
-Keep the assets folder, style.css, and site.js next to index.html.
-Embedded external videos and outside links require an internet connection.
-The contact form email recipient has not been configured.
-Fine Art prices are sample prices.
+Latest saved site version: 47, source commit b8134c534fe3c341eb36bd5eb3408bae2ae17fa9.
+Nine pages, original images and full-quality videos.
 
-To host online, upload the extracted contents together, preserving folder structure.
+Run python scripts/assemble-media.py to assemble the complete website in _site.
+GitHub Pages runs this automatically on every push to main and deploys fifty.ink.
+Large videos are stored losslessly in .media-parts to support connector uploads.
+The build verifies their SHA-256 checksums before publishing.
+Source authoring scripts are preserved in source/.

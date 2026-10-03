@@ -533,7 +533,7 @@ footer{display:flex;justify-content:space-between;gap:2rem;align-items:center;pa
 .about-beginning h2{font-size:clamp(2.6rem,4.2vw,5rem);line-height:1;margin:0 0 1.4rem}
 .about-beginning p{max-width:780px;font-size:clamp(.98rem,1.1vw,1.12rem);line-height:1.65;margin:.8rem 0;color:#c7d1c8}
 .about-beginning .large-copy{font-size:clamp(1.2rem,1.6vw,1.55rem);line-height:1.4;color:#e8eee5}
-.cinema-hero{background:#040a07 url('assets/hero-new/poster.webp') center/cover no-repeat}
+.cinema-hero{background:#040a07 url('/assets/hero-new/poster.webp') center/cover no-repeat}
 @media(max-width:850px){.speaking-head .speaking-head-video{object-position:center;inset:0}}
 @media(max-width:600px){.cinema-hero video{object-fit:contain;object-position:center;background:transparent}.cinema-hero{background-position:center;background-size:cover}.speaking-head .speaking-head-video,.impact-opening-video{object-fit:contain;object-position:center}.project-new-media .project-footage-card:first-child .project-footage-player{width:min(100%,48svh)}.about-beginning{display:block;padding:65px 6vw}.about-beginning h2{font-size:clamp(2.4rem,9vw,3.5rem)}.about-beginning p{font-size:.98rem}.about-beginning .large-copy{font-size:1.2rem}}
 
