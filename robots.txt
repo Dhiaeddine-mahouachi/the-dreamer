@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fifty.ink/sitemap.xml

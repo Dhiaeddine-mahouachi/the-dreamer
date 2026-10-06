@@ -1,10 +1,17 @@
-THE DREAMER — LATEST CINEMATIC WEBSITE
+The Dreamer — editorial cinematic website
 
-Latest saved site version: 47, source commit b8134c534fe3c341eb36bd5eb3408bae2ae17fa9.
-Nine pages, original images and full-quality videos.
+Production: https://fifty.ink
 
-Run python scripts/assemble-media.py to assemble the complete website in _site.
-GitHub Pages runs this automatically on every push to main and deploys fifty.ink.
-Large videos are stored losslessly in .media-parts to support connector uploads.
-The build verifies their SHA-256 checksums before publishing.
-Source authoring scripts are preserved in source/.
+Build editorial HTML and responsive image derivatives:
+  python3 source/editorial.py
+(Pillow required for image generation.)
+
+Assemble all retained original media and validate:
+  python3 scripts/assemble-media.py
+  python3 scripts/verify-editorial.py
+  node --check editorial.js
+
+GitHub Pages deploys _site on main updates.
+Design and audit: source/REDESIGN.md, source/media-audit.json.
+Source credits: source/CONTENT_SOURCES.md.
+Legacy generators and CSS are retained as historical source; production pages use editorial.css and editorial.js.

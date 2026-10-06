@@ -1,0 +1,952 @@
+{
+  "base_commit": "c58222e327d460307722e28bdc36558a3da5c7c4",
+  "assets": [
+    {
+      "path": "assets/about/01.jpg",
+      "bytes": 237255,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/02.jpg",
+      "bytes": 131824,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/03.jpg",
+      "bytes": 178293,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/04.jpg",
+      "bytes": 194839,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/05.jpg",
+      "bytes": 340383,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/06.jpg",
+      "bytes": 139094,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/07.jpg",
+      "bytes": 85334,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/08.jpg",
+      "bytes": 298914,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/09.jpg",
+      "bytes": 419083,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/10.jpg",
+      "bytes": 258528,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/11.jpg",
+      "bytes": 379827,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/12.jpg",
+      "bytes": 265898,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/13.jpg",
+      "bytes": 130829,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/about/tunisia.mp4",
+      "bytes": 5929163
+    },
+    {
+      "path": "assets/about/wildlife.mp4",
+      "bytes": 5857800
+    },
+    {
+      "path": "assets/documentaries-poster.jpg",
+      "bytes": 259370,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "assets/frames/tunisia-01.jpg",
+      "bytes": 71043,
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "path": "assets/frames/tunisia-02.jpg",
+      "bytes": 109778,
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "path": "assets/frames/tunisia-06.jpg",
+      "bytes": 169757,
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "path": "assets/frames/tunisia-08.jpg",
+      "bytes": 185582,
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "path": "assets/frames/tunisia-09.jpg",
+      "bytes": 196870,
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "path": "assets/frames/tunisia-14.jpg",
+      "bytes": 214666,
+      "dimensions": [
+        1600,
+        900
+      ]
+    },
+    {
+      "path": "assets/hero-full/part-07.mp4",
+      "bytes": 6911976
+    },
+    {
+      "path": "assets/hero-new/poster.webp",
+      "bytes": 58224,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "assets/impact/cinemajet-program.webp",
+      "bytes": 169274,
+      "dimensions": [
+        900,
+        1200
+      ]
+    },
+    {
+      "path": "assets/impact/community-coast-poster.webp",
+      "bytes": 16088,
+      "dimensions": [
+        360,
+        640
+      ]
+    },
+    {
+      "path": "assets/impact/field-mentoring.webp",
+      "bytes": 99602,
+      "dimensions": [
+        900,
+        1200
+      ]
+    },
+    {
+      "path": "assets/impact/field-stories.mp4",
+      "bytes": 577231
+    },
+    {
+      "path": "assets/impact/impact-opening.jpg",
+      "bytes": 165107,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "assets/impact/nature-value-poster.webp",
+      "bytes": 15292,
+      "dimensions": [
+        360,
+        640
+      ]
+    },
+    {
+      "path": "assets/impact/photography-workshop.webp",
+      "bytes": 98762,
+      "dimensions": [
+        900,
+        1200
+      ]
+    },
+    {
+      "path": "assets/logo.png",
+      "bytes": 586346,
+      "dimensions": [
+        1774,
+        887
+      ]
+    },
+    {
+      "path": "assets/photography/469683747.jpg",
+      "bytes": 199868,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/469728510.jpg",
+      "bytes": 104595,
+      "dimensions": [
+        899,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/469728961.jpg",
+      "bytes": 249864,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/469825933.jpg",
+      "bytes": 187277,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/525755603.jpg",
+      "bytes": 129489,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/525861371.jpg",
+      "bytes": 58650,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/526130764.jpg",
+      "bytes": 94520,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/526215548.jpg",
+      "bytes": 146485,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/526285315.jpg",
+      "bytes": 41590,
+      "dimensions": [
+        1170,
+        1462
+      ]
+    },
+    {
+      "path": "assets/photography/526294068.jpg",
+      "bytes": 223920,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/526506341.jpg",
+      "bytes": 163624,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/526594784.jpg",
+      "bytes": 124298,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/526744379.jpg",
+      "bytes": 167190,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/526763980.jpg",
+      "bytes": 116402,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/527055566.jpg",
+      "bytes": 50126,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/527337330.jpg",
+      "bytes": 85424,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/555630946.jpg",
+      "bytes": 143960,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/555826408.jpg",
+      "bytes": 267017,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/556626056.jpg",
+      "bytes": 155369,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/556799051.jpg",
+      "bytes": 208663,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/556922215.jpg",
+      "bytes": 227870,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/557438021.jpg",
+      "bytes": 104638,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/573551598.jpg",
+      "bytes": 206797,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/573570378.jpg",
+      "bytes": 266644,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/573688673.jpg",
+      "bytes": 289385,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/573830916.jpg",
+      "bytes": 123802,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/575191913.jpg",
+      "bytes": 138873,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/645712006.jpg",
+      "bytes": 236466,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/645836414.jpg",
+      "bytes": 31914,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/649232440.jpg",
+      "bytes": 36695,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/650345189.jpg",
+      "bytes": 269735,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/650643519.jpg",
+      "bytes": 75604,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/650871801.jpg",
+      "bytes": 129714,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/651451626.jpg",
+      "bytes": 199156,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/651876653.jpg",
+      "bytes": 213037,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/651912908.jpg",
+      "bytes": 98064,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/651921257.jpg",
+      "bytes": 94883,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/652760438.jpg",
+      "bytes": 317856,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/653507443.jpg",
+      "bytes": 90613,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/653587851.jpg",
+      "bytes": 183106,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/654066053.jpg",
+      "bytes": 127589,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/655081329.jpg",
+      "bytes": 118544,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/655487978.jpg",
+      "bytes": 153555,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/684847033.jpg",
+      "bytes": 60413,
+      "dimensions": [
+        843,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/686509758.jpg",
+      "bytes": 29113,
+      "dimensions": [
+        843,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/689096947.jpg",
+      "bytes": 64797,
+      "dimensions": [
+        843,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/700708021.jpg",
+      "bytes": 66067,
+      "dimensions": [
+        900,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/731067983.jpg",
+      "bytes": 37486,
+      "dimensions": [
+        843,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/731158290.jpg",
+      "bytes": 31056,
+      "dimensions": [
+        843,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/810813870.jpg",
+      "bytes": 142379,
+      "dimensions": [
+        843,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/817329413.jpg",
+      "bytes": 31748,
+      "dimensions": [
+        843,
+        1125
+      ]
+    },
+    {
+      "path": "assets/photography/821441541.jpg",
+      "bytes": 38556,
+      "dimensions": [
+        843,
+        1125
+      ]
+    },
+    {
+      "path": "assets/projects/cinemajet.jpg",
+      "bytes": 57390,
+      "dimensions": [
+        1536,
+        864
+      ]
+    },
+    {
+      "path": "assets/projects/coastal-voices.jpg",
+      "bytes": 49840,
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "assets/projects/coastal-voices.mp4",
+      "bytes": 8430301
+    },
+    {
+      "path": "assets/projects/community-field.jpg",
+      "bytes": 242863,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "path": "assets/projects/community-field.mp4",
+      "bytes": 3512300
+    },
+    {
+      "path": "assets/projects/defender-field.jpg",
+      "bytes": 74668,
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "assets/projects/defender-field.mp4",
+      "bytes": 3429167
+    },
+    {
+      "path": "assets/projects/djerba/01-seaside-portrait.webp",
+      "bytes": 45478,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/projects/djerba/02-blue-door.webp",
+      "bytes": 245220,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/projects/djerba/03-coastal-courtyard.webp",
+      "bytes": 100524,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/projects/djerba/04-rabii-filming.webp",
+      "bytes": 189674,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/projects/djerba/05-interview.webp",
+      "bytes": 234646,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/projects/djerba/06-land-rover.webp",
+      "bytes": 176400,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/projects/djerba/07-team.webp",
+      "bytes": 363586,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/projects/djerba/08-camera-and-guest.webp",
+      "bytes": 98524,
+      "dimensions": [
+        1170,
+        1463
+      ]
+    },
+    {
+      "path": "assets/projects/djerba/coastline.mp4",
+      "bytes": 528785
+    },
+    {
+      "path": "assets/projects/road-expedition.jpg",
+      "bytes": 98944,
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "assets/projects/road-expedition.mp4",
+      "bytes": 4611512
+    },
+    {
+      "path": "assets/projects/where-is-diana.jpg",
+      "bytes": 398966,
+      "dimensions": [
+        1366,
+        2048
+      ]
+    },
+    {
+      "path": "assets/speaking/clip-01.mp4",
+      "bytes": 357143
+    },
+    {
+      "path": "assets/speaking/clip-03.mp4",
+      "bytes": 661972
+    },
+    {
+      "path": "assets/story/desert-road.jpg",
+      "bytes": 26815,
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "assets/story/desert-road.mp4",
+      "bytes": 1007528
+    },
+    {
+      "path": "assets/story/field-life.jpg",
+      "bytes": 54792,
+      "dimensions": [
+        720,
+        1280
+      ]
+    },
+    {
+      "path": "assets/story/field-life.mp4",
+      "bytes": 1247723
+    },
+    {
+      "path": "assets/story/sea-journey.jpg",
+      "bytes": 121057,
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "assets/story/sea-journey.mp4",
+      "bytes": 3813192
+    }
+  ],
+  "assembled_videos": [
+    {
+      "path": "assets/documentaries-hero.mp4",
+      "parts": [
+        ".media-parts/assets/documentaries-hero.mp4.part-000",
+        ".media-parts/assets/documentaries-hero.mp4.part-001",
+        ".media-parts/assets/documentaries-hero.mp4.part-002"
+      ],
+      "sha256": "4b9c709ce56a24d6376aad662faeb3776460619bc64eecf45a2ea62b2c532abc"
+    },
+    {
+      "path": "assets/hero-full/part-02.mp4",
+      "parts": [
+        ".media-parts/assets/hero-full/part-02.mp4.part-000",
+        ".media-parts/assets/hero-full/part-02.mp4.part-001"
+      ],
+      "sha256": "8bb6a41f8201208e88a8383611bc5b9d7cfee8a6d30a968bf3fa1a1905e733c9"
+    },
+    {
+      "path": "assets/hero-full/part-04.mp4",
+      "parts": [
+        ".media-parts/assets/hero-full/part-04.mp4.part-000",
+        ".media-parts/assets/hero-full/part-04.mp4.part-001"
+      ],
+      "sha256": "bd3ba8774c6e2246c6ff41a7525ff6170f03a78697e7a098642b74e91aa044c1"
+    },
+    {
+      "path": "assets/hero-full/part-05.mp4",
+      "parts": [
+        ".media-parts/assets/hero-full/part-05.mp4.part-000",
+        ".media-parts/assets/hero-full/part-05.mp4.part-001"
+      ],
+      "sha256": "b50b75c7d2c10fd13640bf45d0a0dca12560108ab025535a3e74a1ed949e6331"
+    },
+    {
+      "path": "assets/hero-full/part-06.mp4",
+      "parts": [
+        ".media-parts/assets/hero-full/part-06.mp4.part-000",
+        ".media-parts/assets/hero-full/part-06.mp4.part-001"
+      ],
+      "sha256": "2640b6b2a21c3b74709aab7c34aad6eea31cf2ee83f9b10a8a9ae7fb4d28f611"
+    },
+    {
+      "path": "assets/hero-new/landing-bg-hevc.mp4",
+      "parts": [
+        ".media-parts/assets/hero-new/landing-bg-hevc.mp4.part-000",
+        ".media-parts/assets/hero-new/landing-bg-hevc.mp4.part-001",
+        ".media-parts/assets/hero-new/landing-bg-hevc.mp4.part-002"
+      ],
+      "sha256": "62fbdaa4d570bd3287f2b04aeb89a9e40800e093a2b924a6d4407ce304710a34"
+    },
+    {
+      "path": "assets/hero-new/landing-bg-mobile.mp4",
+      "parts": [
+        ".media-parts/assets/hero-new/landing-bg-mobile.mp4.part-000",
+        ".media-parts/assets/hero-new/landing-bg-mobile.mp4.part-001",
+        ".media-parts/assets/hero-new/landing-bg-mobile.mp4.part-002"
+      ],
+      "sha256": "7de1a675e97bfcd412aa551920314ddd37e9e42bc7b99143d643bd1ad382ba46"
+    },
+    {
+      "path": "assets/hero-new/landing-bg.mp4",
+      "parts": [
+        ".media-parts/assets/hero-new/landing-bg.mp4.part-000",
+        ".media-parts/assets/hero-new/landing-bg.mp4.part-001",
+        ".media-parts/assets/hero-new/landing-bg.mp4.part-002"
+      ],
+      "sha256": "ea19004f773ca760c7f41bc534f20570f5830efbb79bd7f657a2f4843739dfe1"
+    },
+    {
+      "path": "assets/impact/community-coast.mp4",
+      "parts": [
+        ".media-parts/assets/impact/community-coast.mp4.part-000",
+        ".media-parts/assets/impact/community-coast.mp4.part-001"
+      ],
+      "sha256": "47ead41ec6c4385a138aea55baebd339eaf022a2606f2e8c3e8054fc47b1c96d"
+    },
+    {
+      "path": "assets/impact/impact-opening.mp4",
+      "parts": [
+        ".media-parts/assets/impact/impact-opening.mp4.part-000",
+        ".media-parts/assets/impact/impact-opening.mp4.part-001"
+      ],
+      "sha256": "fb499a69cf568f31da10a863b6029a705e5dd6005fdfa4751156efd6a0887628"
+    },
+    {
+      "path": "assets/impact/nature-value.mp4",
+      "parts": [
+        ".media-parts/assets/impact/nature-value.mp4.part-000",
+        ".media-parts/assets/impact/nature-value.mp4.part-001"
+      ],
+      "sha256": "dae8e2cdf62d736e878659b5a16467169f989ec278fd2ea64f22265df081826e"
+    },
+    {
+      "path": "assets/speaking/rabii-speaking-background.mp4",
+      "parts": [
+        ".media-parts/assets/speaking/rabii-speaking-background.mp4.part-000",
+        ".media-parts/assets/speaking/rabii-speaking-background.mp4.part-001"
+      ],
+      "sha256": "fc08a9fb36b6248c0dc0720728e038af5bf673697f845d160789f340fc1e5765"
+    }
+  ],
+  "audio": "Embedded audio in supplied video clips; no standalone audio assets.",
+  "pages": [
+    "speaking/index.html",
+    "photography/index.html",
+    "_site/index.html",
+    "conservation/index.html",
+    "collaborations/index.html",
+    "contact/index.html",
+    "films/index.html",
+    "prints/index.html",
+    "about/index.html",
+    "index.html"
+  ]
+}
